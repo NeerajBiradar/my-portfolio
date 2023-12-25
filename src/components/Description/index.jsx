@@ -3,7 +3,7 @@ import { useInView, motion } from 'framer-motion';
 import { useRef } from 'react';
 import { slideUp, opacity } from './animation';
 import Rounded from '../../common/RoundedButton';
-export default function index() {
+export default function Index() {
 
     const phrase = "Hello! I'm Neeraj Biradar, a dynamic and dedicated computer science student at Keshav Memorial Institute of Technology.";
     const description = useRef(null);
