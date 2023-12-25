@@ -1,15 +1,4 @@
-// next.config.js
-module.exports = {
-  // Other configurations...
+/** @type {import('next').NextConfig} */
+const nextConfig = {}
 
-  // Specify the export path (optional)
-  distDir: 'out',
-
-  // Configure the output for static HTML export
-  exportPathMap: async function () {
-    return {
-      '/': { page: '/' },
-      // Add other pages as needed
-    };
-  },
-};
+module.exports = nextConfig
