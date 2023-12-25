@@ -23,7 +23,7 @@ export default function Index() {
                             <Image 
                             fill={true}
                             alt={"image"}
-                            src="./ppimg.jpg"
+                            src="my-portfolio\public\images\ppimg.jpg"
                             />
                         </div>
                         <h2>Work with me</h2>
