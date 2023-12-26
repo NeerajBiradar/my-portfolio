@@ -38,7 +38,7 @@ const Card = ({i, title, description,tech,src, url, color, progress, range, targ
             >
               <Image
                 fill
-                src={`./${src}`}
+                src={`./images/${src}`}
                 alt="image" 
               />
             </motion.div>
