@@ -16,7 +16,7 @@ export const projects = [
   {
     title: "InHouse LLM for research and development",
     description: "Designed an offline tool leveraging Large Language Models for non-internet-connected networks, offering AI/ML-based text, Science and Technology document summarization. AI/ML-based headline generation for newspaper and editorial pages.",
-    src: "llm.png",
+    src: "LLM.png",
     tech:"Python, TensorFlow, Huggingface,Flask",
     color: "black"
   },
